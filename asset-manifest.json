@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/material-ui/static/css/main.ef9aab54.css",
+    "main.js": "/material-ui/static/js/main.1ea214f5.js",
+    "static/js/787.c4a5ab19.chunk.js": "/material-ui/static/js/787.c4a5ab19.chunk.js",
+    "static/media/allison-all-400-normal.woff": "/material-ui/static/media/allison-all-400-normal.9085ad17aa1a6fd0cdb5.woff",
+    "static/media/allison-latin-400-normal.woff2": "/material-ui/static/media/allison-latin-400-normal.1e0eeae35ed94dd378ac.woff2",
+    "static/media/allison-latin-ext-400-normal.woff2": "/material-ui/static/media/allison-latin-ext-400-normal.2e9a1dfa5d107fd8d1af.woff2",
+    "static/media/allison-vietnamese-400-normal.woff2": "/material-ui/static/media/allison-vietnamese-400-normal.9c5f060ce0d54e98d34e.woff2",
+    "index.html": "/material-ui/index.html",
+    "main.ef9aab54.css.map": "/material-ui/static/css/main.ef9aab54.css.map",
+    "main.1ea214f5.js.map": "/material-ui/static/js/main.1ea214f5.js.map",
+    "787.c4a5ab19.chunk.js.map": "/material-ui/static/js/787.c4a5ab19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9aab54.css",
+    "static/js/main.1ea214f5.js"
+  ]
+}
